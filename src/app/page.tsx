@@ -117,6 +117,7 @@ export default function Home() {
         <span className="relative text-center">
           <h1 className="text-5xl ">Let's collaborate and</h1>
           <h1 className="text-5xl ">make good things together</h1>
+          test
         </span>
         <Image
           className=" mt-12"
