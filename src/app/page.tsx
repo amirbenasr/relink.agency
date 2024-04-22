@@ -49,7 +49,7 @@ export default function Home() {
       </nav>
       <section className="relative w-full h-[100vh] flex flex-col justify-center items-center">
         <Image
-          className=" "
+          className="animate-pulse"
           src="/main.png"
           alt={""}
           width={600}
@@ -117,7 +117,6 @@ export default function Home() {
         <span className="relative text-center">
           <h1 className="text-5xl ">Let's collaborate and</h1>
           <h1 className="text-5xl ">make good things together</h1>
-          test
         </span>
         <Image
           className=" mt-12"
