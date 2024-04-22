@@ -58,7 +58,7 @@ export default function Home() {
 
         <div className="flex flex-col justify-center items-center">
           <h1 className="text-3xl text-center uppercase tracking-widest -translate-y-20">
-            The agency you&apos;ve been looking for
+            The agency you've been looking for
           </h1>
           <h2>Scroll down</h2>
           <button className="mt-4 animate-bounce">
@@ -115,7 +115,7 @@ export default function Home() {
       </section>
       <div className=" uppercase  text-5xl tracking-widest  ">
         <span className="relative text-center">
-          <h1 className="text-5xl ">Let&pos;s collaborate and</h1>
+          <h1 className="text-5xl ">Let's collaborate and</h1>
           <h1 className="text-5xl ">make good things together</h1>
           test
         </span>
@@ -129,7 +129,7 @@ export default function Home() {
       </div>
 
       <button className="rounded-full bg-transparent border px-2 py-1 ">
-        Let&pos;s Talk
+        Let's Talk
       </button>
       <footer className="w-full">
         <div className="flex justify-between">
