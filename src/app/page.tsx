@@ -100,7 +100,7 @@ export default function Home() {
         ))}
       </section>
       <div className="uppercase h-32 text-5xl tracking-widest  ">
-        our projects
+        Satisfied clients
       </div>
       <section>
         <div className="flex gap-4">
